@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "163794119203",
+    "firebase_url": "https://seg2505-tutorial3-default-rtdb.firebaseio.com",
+    "project_id": "seg2505-tutorial3",
+    "storage_bucket": "seg2505-tutorial3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163794119203:android:078ed9945ec35aaf7ddf96",
+        "android_client_info": {
+          "package_name": "com.toxoscorp.firebasertd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN18_qS-UbcvwUwEUTqZ5MP9iqU4eOwlg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163794119203:android:5462ba3d7b731ec07ddf96",
+        "android_client_info": {
+          "package_name": "com.toxoscorp.tutorial3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN18_qS-UbcvwUwEUTqZ5MP9iqU4eOwlg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
